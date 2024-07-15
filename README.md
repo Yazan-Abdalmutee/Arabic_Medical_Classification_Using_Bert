@@ -4,7 +4,7 @@ This project involves using **BERT** (Bidirectional Encoder Representations from
 
 ## Dataset
 
-The dataset consists of Arabic medical questions categorized into the following classes:
+The dataset consists of Arabic medical questions and answers categorized into the following classes:
 
 * **0: 'أمراض الدم'**
 * **1: 'الأورام الخبيثة والحميدة'**
@@ -18,3 +18,5 @@ The dataset consists of Arabic medical questions categorized into the following 
 ## Interface
 
 An interface is being developed to facilitate the classification task with BERT.
+
+![Interface](interface.png)
